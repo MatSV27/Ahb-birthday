@@ -30,6 +30,7 @@
 .Hb-container-images{
     display: flex;
     justify-content: space-around;
+    height: 15vh;
 }
 .Hb-footer-end{
     font-weight: bold;
