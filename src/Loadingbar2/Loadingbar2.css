@@ -1,0 +1,36 @@
+.Loading-image{
+    border-radius: 12px;
+}
+.Loading-container{
+    padding: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Hb-container{
+    padding: 8px;
+    text-align: center;
+    font-family: "Happy Monkey", system-ui;
+}
+.Hb-image{
+    width: 70vw;
+}
+.Hb-message{
+    font-size: 16px;
+}
+.Hb-image-2{
+    width: 30vw;
+}
+.Hb-image-3{
+    width: 30vw;
+}
+.Hb-image-4{
+    width: 70vw;
+}
+.Hb-container-images{
+    display: flex;
+    justify-content: space-around;
+}
+.Hb-footer-end{
+    font-weight: bold;
+}

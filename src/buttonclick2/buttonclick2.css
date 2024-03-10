@@ -1,0 +1,12 @@
+.button-click-2{
+    font-size: 16px;
+    width: 100px;
+    padding: 12px;
+    border-radius: 12px;
+    background-color: #FFF6E9;
+    box-shadow: 2px 2px 2px 2px;
+    z-index: 1;
+    position: absolute;
+    bottom: 250px;
+    right: 190px;
+}

@@ -1,0 +1,8 @@
+.button-click-1{
+    font-size: 16px;
+    padding: 12px;
+    border-radius: 12px;
+    background-color: #FFF6E9;
+    box-shadow: 2px 2px 2px 2px;
+    z-index: 1;
+}
