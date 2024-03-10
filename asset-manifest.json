@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ahb-birthday/static/css/main.75668f3e.css",
+    "main.js": "/Ahb-birthday/static/js/main.8d214075.js",
+    "static/js/453.0b143211.chunk.js": "/Ahb-birthday/static/js/453.0b143211.chunk.js",
+    "index.html": "/Ahb-birthday/index.html",
+    "main.75668f3e.css.map": "/Ahb-birthday/static/css/main.75668f3e.css.map",
+    "main.8d214075.js.map": "/Ahb-birthday/static/js/main.8d214075.js.map",
+    "453.0b143211.chunk.js.map": "/Ahb-birthday/static/js/453.0b143211.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75668f3e.css",
+    "static/js/main.8d214075.js"
+  ]
+}
